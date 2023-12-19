@@ -33,13 +33,13 @@
     },
     {
       "name": "flutter_sound_platform_interface",
-      "rootUri": "file:///Users/afdaldev/.pub-cache/hosted/pub.dev/flutter_sound_platform_interface-9.2.13",
+      "rootUri": "../../flutter_sound_platform_interface",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "flutter_sound_web",
-      "rootUri": "file:///Users/afdaldev/.pub-cache/hosted/pub.dev/flutter_sound_web-9.2.13",
+      "rootUri": "../../flutter_sound_web",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -57,9 +57,9 @@
     },
     {
       "name": "logger",
-      "rootUri": "file:///Users/afdaldev/.pub-cache/hosted/pub.dev/logger-1.4.0",
+      "rootUri": "file:///Users/afdaldev/.pub-cache/hosted/pub.dev/logger-2.0.2+1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "material_color_utilities",
@@ -158,6 +158,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "sprintf",
+      "rootUri": "file:///Users/afdaldev/.pub-cache/hosted/pub.dev/sprintf-7.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "synchronized",
       "rootUri": "file:///Users/afdaldev/.pub-cache/hosted/pub.dev/synchronized-3.1.0+1",
       "packageUri": "lib/",
@@ -171,9 +177,9 @@
     },
     {
       "name": "uuid",
-      "rootUri": "file:///Users/afdaldev/.pub-cache/hosted/pub.dev/uuid-3.0.7",
+      "rootUri": "file:///Users/afdaldev/.pub-cache/hosted/pub.dev/uuid-4.2.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "vector_math",
@@ -206,7 +212,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-12-19T07:22:55.116490Z",
+  "generated": "2023-12-19T08:02:10.704144Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
