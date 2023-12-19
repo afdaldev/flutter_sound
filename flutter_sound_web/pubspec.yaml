@@ -25,10 +25,11 @@ flutter:
   - src/flutter_sound_recorder.js
   - howler/howler.js
 
-
 dependencies:
   flutter_sound_platform_interface:
-    path: ../flutter_sound_platform_interface # Flutter Sound Dir
+    git:
+      url: https://github.com/afdaldev/flutter_sound.git
+      path: flutter_sound_platform_interface # Flutter Sound Dir
   flutter:
     sdk: flutter
   logger: ^2.0.2+1

@@ -9,6 +9,13 @@ environment:
   sdk: '>=2.12.0 <3.0.0'
   flutter: ">=2.0.0"
 
+dependency_overrides:
+  flutter_sound_platform_interface:
+    git:
+      url: https://github.com/afdaldev/flutter_sound.git
+      path: flutter_sound_platform_interface # Flutter Sound Dir
+# ============================================================================
+
 dependencies:
   path_provider: ^2.1.1
   recase: ^4.1.0
@@ -20,10 +27,10 @@ dependencies:
   flutter:
     sdk: flutter
 # ============================================================================
-  flutter_sound_platform_interface:
-    path: ../flutter_sound_platform_interface # Flutter Sound Dir
   flutter_sound_web:
-    path: ../flutter_sound_web # Flutter Sound Dir
+    git:
+      url: https://github.com/afdaldev/flutter_sound.git
+      path: flutter_sound_web # Flutter Sound Dir
 # ============================================================================
 
 dev_dependencies:

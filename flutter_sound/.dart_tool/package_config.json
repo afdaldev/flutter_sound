@@ -33,13 +33,13 @@
     },
     {
       "name": "flutter_sound_platform_interface",
-      "rootUri": "../../flutter_sound_platform_interface",
+      "rootUri": "file:///Users/afdaldev/.pub-cache/git/flutter_sound-5febf6e13804ca5646c0a2a84c1ba86645214e1a/flutter_sound_platform_interface",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "flutter_sound_web",
-      "rootUri": "../../flutter_sound_web",
+      "rootUri": "file:///Users/afdaldev/.pub-cache/git/flutter_sound-5febf6e13804ca5646c0a2a84c1ba86645214e1a/flutter_sound_web",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -212,7 +212,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-12-19T08:02:10.704144Z",
+  "generated": "2023-12-19T08:12:55.467910Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }

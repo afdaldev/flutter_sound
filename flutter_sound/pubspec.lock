@@ -39,18 +39,22 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_sound_platform_interface:
-    dependency: "direct main"
+    dependency: "direct overridden"
     description:
-      path: "../flutter_sound_platform_interface"
-      relative: true
-    source: path
+      path: flutter_sound_platform_interface
+      ref: HEAD
+      resolved-ref: "5febf6e13804ca5646c0a2a84c1ba86645214e1a"
+      url: "https://github.com/afdaldev/flutter_sound.git"
+    source: git
     version: "9.2.13"
   flutter_sound_web:
     dependency: "direct main"
     description:
-      path: "../flutter_sound_web"
-      relative: true
-    source: path
+      path: flutter_sound_web
+      ref: HEAD
+      resolved-ref: "5febf6e13804ca5646c0a2a84c1ba86645214e1a"
+      url: "https://github.com/afdaldev/flutter_sound.git"
+    source: git
     version: "9.2.13"
   flutter_web_plugins:
     dependency: transitive
